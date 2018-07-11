@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "aaa",
+      "body": "bbbbbbb\n"
+    },
+    {
+      "title": "title 2",
+      "body": "Body 2",
+      "id": 2
+    },
+    {
+      "title": "aaa",
+      "body": "fsa as",
+      "id": 3
+    }
+  ],
+  "profile": { "name": "typicode" }
+}
