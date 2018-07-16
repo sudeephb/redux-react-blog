@@ -1,20 +1,25 @@
 {
-  "posts": [
+  "blogs": [
     {
-      "id": 1,
-      "title": "aaa",
-      "body": "bbbbbbb\n"
+      "title": "title",
+      "body": "body ",
+      "id": 1
     },
     {
-      "title": "title 2",
-      "body": "Body 2",
+      "title": "afsafs",
+      "body": "faadsfadfs",
       "id": 2
-    },
-    {
-      "title": "aaa",
-      "body": "fsa as",
-      "id": 3
     }
   ],
-  "profile": { "name": "typicode" }
+  "comments": [
+    {
+      "id": 1,
+      "commentetor": "user1",
+      "body": "some comment",
+      "blogId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
